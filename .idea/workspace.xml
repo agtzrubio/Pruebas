@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="855c734b-702e-422e-a6fb-44f69e1119ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../BD/.idea/BD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/.idea/personas_django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/migrations/0002_domicilio_persona_domicilio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/migrations/0003_domicilio_no_calle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/migrations/0004_alter_domicilio_no_calle_alter_persona_domicilio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/personas/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/sap/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/sap/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/sap/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/sap/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/sap/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/webapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/webapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/webapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/webapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/webapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/webapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Django/personas_django/sap/webapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/detalle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mynew/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mynew/templates/error404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mynew/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mynew/templates/mostrar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion06/.idea/Leccion06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion06/MiClase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/.idea/Leccion07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/.idea/cls.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/Aritmetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/ClientePersona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/Cubo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/Persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/PersonaHerencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/PruebaPersona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/Rectangulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/Vehiculo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion07/cls/VehiculoPrueba.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/.idea/Leccion08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/Color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/Cuadrado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/FiguraGeometrica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/Rectangulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Leccion08/test_figura_geometrica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catalogo_peliculas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catalogo_peliculas/.idea/catalogo_peliculas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catalogo_peliculas/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catalogo_peliculas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catalogo_peliculas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catalogo_peliculas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../catalogo_peliculas/CatalogoPeliculas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/Polimorfismo/Empleado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/Polimorfismo/Gerente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/Polimorfismo/test_polimorfismo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/.idea/mundo_pc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/Mundo_Pc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/Mundo_Pc/computadora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/Mundo_Pc/dispositivo_entrada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/Mundo_Pc/monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/Mundo_Pc/orden.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/Mundo_Pc/raton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/Mundo_Pc/teclado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/mundo_pc/Mundo_Pc/test_mundo_pc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonAV/sobrecarga_OP/ADD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/Listas/.idea/Listas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/Listas/diccionarios}.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/Listas/funcion/leccion01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/Listas/set" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject/Listas/tuplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/clases/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/clases/.idea/clases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/clases/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pythonProject2/clases/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DKM66RGySzZVIAC6xnA4xgZCU9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="855c734b-702e-422e-a6fb-44f69e1119ee" name="Changes" comment="" />
+      <created>1660443144403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660443144403</updated>
+      <workItem from="1660443146418" duration="8632000" />
+      <workItem from="1660464288087" duration="83000" />
+      <workItem from="1660493572239" duration="900000" />
+      <workItem from="1660505586606" duration="455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="fc8b966b-8439-4d44-879f-d45e14fbbdfa">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="fc8b966b-8439-4d44-879f-d45e14fbbdfa" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+</project>
